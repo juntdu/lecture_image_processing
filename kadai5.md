@@ -42,4 +42,6 @@ pause;
 このプログラムは、閾値を1～254まで設定し、その閾値によってヒストグラムを2つのクラスに分け、クラス内分散とクラス間分散の値を計算し、クラス間分散/クラス内分散が最大になる閾値を求めている。判別分析法によって2値化された画像を図2に示す。
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai5/kadai5_2.png)
+<div style="text-align: center;">
 図2 判別分析法による2値化画像
+</div>
