@@ -9,7 +9,7 @@ pause; % 一時停止
 
 によって，原画像を読み込み，白黒画像に変換して表示した結果を図１に示す．
 
-![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/org_img.png)  
+![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_1.png)  
 図1 原画像(白黒)
 
 2階調画像を生成するために以下のプログラムを実行する。
@@ -20,7 +20,7 @@ pause;
 
 2階調画像を生成した結果を図２に示す．
 
-![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai1_1.png)  
+![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_2.png)  
 図2 2階調画像
 
 4階調画像を生成するために以下のプログラムを実行する。
@@ -34,7 +34,7 @@ pause;
 
 4階調画像を生成した結果を図３に示す．
 
-![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai1_2.png)  
+![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_3.png)  
 図3 4階調画像
 
 8階調画像を生成するために以下のプログラムを実行する。
@@ -51,7 +51,7 @@ imagesc(IMG); colormap(gray); colorbar; axis image;
 
 8階調画像を生成した結果を図4に示す．
 
-![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai1_3.png)  
+![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_4.png)  
 図4 8階調画像
 
 このようにサンプリング幅が大きくなると，モザイク状のサンプリング歪みが発生する．
