@@ -56,3 +56,5 @@ imagesc(IMG); colormap(gray); colorbar;
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai3/kadai3_5.png)  
 図5 閾値が192の場合の画像
+
+図1～5より、閾値が低いと画像のほとんどの部分が白くなるが閾値が真ん中の値(128)だと一番鮮明になり、逆に閾値が高いと画像のほとんどの部分が黒くなってしまうことが確認できる。
