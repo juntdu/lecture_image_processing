@@ -13,32 +13,32 @@ pause; % 一時停止
 図1 原画像(白黒)
 
 2階調画像を生成するために以下のプログラムを実行する。
-
+```
 IMG = ORG>128;
 imagesc(IMG); colormap(gray); colorbar;  axis image;
 pause;
-
+```
 2階調画像を生成した結果を図２に示す．
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_2.png)  
 図2 2階調画像
 
 4階調画像を生成するために以下のプログラムを実行する。
-
+```
 IMG0 = ORG>64;
 IMG1 = ORG>128;
 IMG2 = ORG>192;
 IMG = IMG0 + IMG1 + IMG2;
 imagesc(IMG); colormap(gray); colorbar;  axis image;
 pause;
-
+```
 4階調画像を生成した結果を図３に示す．
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_3.png)  
 図3 4階調画像
 
 8階調画像を生成するために以下のプログラムを実行する。
-
+```
 IMG0 = ORG>32;
 IMG1 = ORG>64;
 IMG2 = ORG>96;
@@ -48,7 +48,7 @@ IMG5 = ORG>192;
 IMG6 = ORG>224;
 IMG = IMG0+IMG1+IMG2+IMG3+IMG4+IMG5+IMG6;
 imagesc(IMG); colormap(gray); colorbar; axis image;
-
+```
 8階調画像を生成した結果を図4に示す．
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_4.png)  
