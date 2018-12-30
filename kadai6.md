@@ -32,3 +32,5 @@ imagesc(IMG); colormap(gray); colorbar; % 画像の表示
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai6/kadai6_3.png)  
 図3 ディザ法による2値化画像
+
+図1～3より、閾値128による2値化画像よりディザ法による2値化画像の方が鮮明であるがテレビの砂嵐のようなノイズが混在していることが確認できる。
