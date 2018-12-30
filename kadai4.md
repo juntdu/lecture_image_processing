@@ -19,3 +19,5 @@ imhist(ORG); % ヒストグラムの表示
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai4/kadai4_2.png)  
 図2 濃度ヒストグラム
+
+図2の濃度ヒストグラムより、この「mandrill」の画像は輝度値が125と170周辺に集中していることが確認できる。
