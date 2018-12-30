@@ -12,7 +12,7 @@ pause;
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai7/kadai7_1.png)  
 図1 原画像(白黒)
 
-以下のプログラムを実行して、濃度ヒストグラムを作成し表示する。。
+以下のプログラムを実行して、濃度ヒストグラムを作成し表示する。
 ```
 imhist(ORG); % 濃度ヒストグラムを生成、表示
 pause;
