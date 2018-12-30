@@ -30,5 +30,5 @@ imagesc(IMG); colormap(gray); colorbar; % 画像の表示
 ```
 ディザ法による2値化画像を図3に示す。
 
-![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai6/kadai6_2.png)  
+![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai6/kadai6_3.png)  
 図3 ディザ法による2値化画像
