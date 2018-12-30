@@ -9,7 +9,7 @@ pause;
 ```
 によって，原画像を読み込み，白黒画像に変換して表示した結果を図１に示す．
 
-![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai3/kadai4_1.png)  
+![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai4/kadai4_1.png)  
 図1 原画像(白黒)
 
 以下のプログラムを実行して、画素の濃度ヒストグラムを表示させる。濃度ヒストグラムを図2に示す。
@@ -17,5 +17,5 @@ pause;
 imhist(ORG); % ヒストグラムの表示
 ```
 
-![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai3/kadai4_2.png)  
+![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai4/kadai4_2.png)  
 図2 濃度ヒストグラム
