@@ -43,3 +43,5 @@ pause;
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai5/kadai5_2.png)  
 図2 判別分析法による2値化画像
+
+図2を見ると、多くの部分が黒くなっていることが分かる。これは課題4のヒストグラムより、輝度値が低い画素が多かったため全体的に暗い画像になったと言える。また一部白くなっている部分は、「mandrill」の頬と髭でありこれは元々輝度値が高かったため1になったと言える。
