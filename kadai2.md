@@ -54,4 +54,4 @@ imagesc(IMG); colormap(gray); colorbar; axis image;
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai2/kadai2_4.png)  
 図4 8階調画像
 
-このようにサンプリング幅が大きくなると，モザイク状のサンプリング歪みが発生する．
+このように、階調数が増えれば増えるほど画像が鮮明になると理解できた。
