@@ -33,3 +33,5 @@ pause;
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai8/kadai8_3.png)  
 図3 ラベルをつけた画像
+
+図3より、「mandrill」の体毛は青色の連結成分でつながっていて顔の輪郭が分かるようになっている。
