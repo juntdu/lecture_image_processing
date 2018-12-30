@@ -25,4 +25,3 @@ pause;
 
 IMG = ORG > 192;
 imagesc(IMG); colormap(gray); colorbar;
-
