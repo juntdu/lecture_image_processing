@@ -44,3 +44,5 @@ pause; % 一時停止
 
 ![原画像](https://github.com/juntdu/lecture_image_processing/blob/master/image/kadai10/kadai10_4.png)  
 図4 エッジ抽出画像(キャニー法)
+
+上記結果より、プレウィット法とソベル法ではほとんど違いは見られないが、キャニー法ではかなり多くのエッジを抽出できていることが確認できる。
